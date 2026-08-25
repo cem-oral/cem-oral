@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Cem Sıtkı Oral 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Management+Information+Systems+Student;Machine+Learning+%26+Data+Enthusiast;Full-Stack+Developer+in+Progress;Building+EPL+Predictor+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Management+Information+Systems+Student;Machine+Learning;Full-Stack+Developer+in+Progress;Building+EPL+Predictor+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -85,22 +85,6 @@ A machine learning pipeline that predicts Premier League match outcomes using ti
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cem-oral&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="Cem's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cem-oral&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=cem-oral&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cem-oral&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
-</p>
 
 ---
 
