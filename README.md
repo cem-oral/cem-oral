@@ -6,18 +6,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🎓 Management Information Systems student at **Işık University**
-- 🤖 Currently building **[EPL Predictor](https://github.com/cem-oral/EPL-Predictor)** — a machine learning system that predicts Premier League match outcomes using 9,300+ historical matches
-- 📊 Interested in **machine learning, data analysis, and full-stack development**
-- 🛠️ Comfortable across the stack: from training ensemble ML models in Python to shipping them as REST APIs and consuming them in React
-- 🌱 Currently deepening my skills in exploratory data analysis and applied ML (DataCamp certified)
-- 💬 Ask me about **ML ensembling, SQL, or FastAPI**
-- ⚡ Fun fact: I like turning football stats into predictions
-
----
-
 ### 🚀 Featured Project
 
 <table>
