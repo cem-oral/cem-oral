@@ -12,6 +12,24 @@
 <tr>
 <td width="100%">
 
+**💊 [Medication Tracker](https://github.com/cem-oral/MedicationTracker)** — *Android & AI App*
+
+A native Android application built with Kotlin and Jetpack architecture that enables users to track daily medications, scan medicine boxes using AI-powered OCR, and receive exact-time reminders.
+
+- 📷 On-Device ML Pipeline using **Google ML Kit Text Recognition** for automatic medicine box scanning (brand, dosage, quantity)
+- 📅 Custom 7-column in-app month calendar with pre-calculated visual status indicators (**🟢 Taken, 🔴 Missed, 🟡 Pending**)
+- ⏰ Precise alarm engine with **AlarmManager (setAlarmClock)** & direct notification actions (**Take, Skip, 10-Min Snooze**)
+- 🌐 Multi-language architecture with instant **🇹🇷 Turkish & 🇬🇧 English** live switcher
+- 🗄️ Offline-first storage powered by **Room SQLite Database** with automated data migration
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
 **⚽ [EPL Predictor](https://github.com/cem-oral/EPL-Predictor)** — *Graduation Project*
 
 A machine learning pipeline that predicts Premier League match outcomes using time-series feature engineering (Dynamic ELO, Form, Head-to-Head, xG) on 9,300+ matches dating back to 2000.
