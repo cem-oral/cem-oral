@@ -86,10 +86,3 @@ A machine learning pipeline that predicts Premier League match outcomes using ti
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-
----
-
-<p align="center">
-  <i>💡 Open to internship opportunities in Machine Learning, Data Analysis, and Software Development.</i>
-</p>
